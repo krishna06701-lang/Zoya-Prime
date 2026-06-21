@@ -1,0 +1,6 @@
+{
+  "name": "Zoya Prime",
+  "description": "Premium Voice-First Android AI Assistant with local memory, system control, and adaptive background service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
